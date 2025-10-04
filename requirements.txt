@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-groq
+langgraph
+requests
+python-dotenv
+pandas
+mcp
+aiohttp
+fastapi
+fpdf
+groq
+uvicorn
+reportlab
+xlsxwriter
